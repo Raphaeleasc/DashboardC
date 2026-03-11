@@ -1,0 +1,15 @@
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\bin\Debug\net10.0\DashboardC.exe
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\bin\Debug\net10.0\DashboardC.deps.json
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\bin\Debug\net10.0\DashboardC.runtimeconfig.json
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\bin\Debug\net10.0\DashboardC.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\bin\Debug\net10.0\DashboardC.pdb
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\DashboardC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\DashboardC.AssemblyInfoInputs.cache
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\DashboardC.AssemblyInfo.cs
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\DashboardC.csproj.CoreCompileInputs.cache
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\DashboardC.sourcelink.json
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\DashboardC.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\refint\DashboardC.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\DashboardC.pdb
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\DashboardC.genruntimeconfig.cache
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\obj\Debug\net10.0\ref\DashboardC.dll

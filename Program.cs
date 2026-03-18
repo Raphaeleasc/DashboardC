@@ -1,18 +1,41 @@
 ﻿
 
 class Switch{
-    private bool hasNic = true;
-    private bool hasMacAdresse = true;
-    public bool GetMacAdresse(){
-        return hasMacAdresse;
+    private string HasNic = "";
+    private string HasMacAdresse = "";
+
+    public Switch(string hasNic,string hasMacAdresse )
+    {
+        HasNic = hasNic;
+        HasMacAdresse = hasMacAdresse;
     }
-    public bool GetNic(){
-        return hasNic;
+    public Switch()
+    {
+        
+    }
+
+    public void printswitch()
+    {
+        Console.Write(HasNic);
+        Console.Write(" : ",HasMacAdresse);
+    }
+    public string GetMacAdresse(){
+        return HasMacAdresse;
+    }
+    public string GetNic(){
+        return HasNic;
     }
 }
 
 class Program{
+    
     public static void Main(){
-    Console.WriteLine("Hello ");
+    Switch swit = new Switch("bananz","banana");
+    Switch swit1 = new Switch("banane","banane");
+    Switch swit2 = new Switch("banano","banano");
+    Switch[] switches = [swit,swit1,swit2];
+    foreach(Switch swat in switches){
+        swat.printswitch();
+    }
    }
 }

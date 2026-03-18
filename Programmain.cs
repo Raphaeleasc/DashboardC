@@ -27,7 +27,7 @@ class Switch{
     }
 }
 
-class Program{
+class Programmain{
     public static void Main(){
     string nom = "Raphael";
     int age = 22;

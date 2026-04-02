@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.Windows.Forms;
 class Switch{
     private string HasNic = "";
     private string HasMacAdresse = "";
@@ -39,5 +40,6 @@ class Programmain{
     foreach(Switch swat in switches){
         swat.printswitch();
     }
+    Application.Run(new MyWindow());
    }
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ascathe\\Desktop\\Esiee-it_2eme\\Projet_Full\\Dashboard_C\\DashboardC\\DashboardC.csproj",
-      "projectName": "DashboardC",
-      "projectPath": "C:\\Users\\Ascathe\\Desktop\\Esiee-it_2eme\\Projet_Full\\Dashboard_C\\DashboardC\\DashboardC.csproj",
+      "projectUniqueName": "C:\\Users\\Ascathe\\Desktop\\Esiee-it_2eme\\Projet_Full\\Dashboard_C\\DashboardC\\Mydashboard\\Mydashboard.csproj",
+      "projectName": "Mydashboard",
+      "projectPath": "C:\\Users\\Ascathe\\Desktop\\Esiee-it_2eme\\Projet_Full\\Dashboard_C\\DashboardC\\Mydashboard\\Mydashboard.csproj",
       "packagesPath": "C:\\Users\\Ascathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ascathe\\Desktop\\Esiee-it_2eme\\Projet_Full\\Dashboard_C\\DashboardC\\obj\\",
+      "outputPath": "C:\\Users\\Ascathe\\Desktop\\Esiee-it_2eme\\Projet_Full\\Dashboard_C\\DashboardC\\Mydashboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

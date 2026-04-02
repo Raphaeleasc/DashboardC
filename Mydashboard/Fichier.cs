@@ -14,7 +14,7 @@ class Calcul
         return lastcalcul;
     }
 }
-class Fichier
+/*class Fichier
 {
    public static void Main()
     {
@@ -25,4 +25,4 @@ class Fichier
         int c = calcul.Addition(a,b);
         Console.WriteLine($"{a}+{b} = {calcul.Getlastcalcul()}");
     }
-}
+}*/

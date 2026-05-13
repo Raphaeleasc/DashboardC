@@ -27,3 +27,10 @@ C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITes
 C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\obj\Debug\net10.0\APITest.pdb
 C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\obj\Debug\net10.0\APITest.genruntimeconfig.cache
 C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\obj\Debug\net10.0\ref\APITest.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\bin\Debug\net10.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\obj\Debug\net10.0\APITest.csproj.AssemblyReference.cache
+C:\Users\Ascathe\Desktop\Esiee-it_2eme\Projet_Full\Dashboard_C\DashboardC\APITest\obj\Debug\net10.0\APITest.csproj.Up2Date
